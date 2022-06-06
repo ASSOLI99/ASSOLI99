@@ -15,3 +15,5 @@
     <a href="mailto:abdullahassoli@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
    <a href="https://twitter.com/abdullah_assoli"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Assoli99&show_icons=true&locale=en&layout=compact" alt="Assoli99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Assoli99&show_icons=true&locale=en" alt="Assoli99" /></p>
